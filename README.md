@@ -1,9 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=GuDong2003&show_icons=true&include_all_commits=true&theme=radical" alt="GuDong2003's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuDong2003&layout=compact&theme=radical" />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=120&section=header&text=GuDong2003&fontSize=30&fontColor=ffffff" />
+</p>
 
-### Hi there, I'm [咕咚](https://github.com/GuDong2003)!
-![](https://visitor-badge.laobi.icu/badge?page_id=GuDong2003.readme)
+![Recent Commits](https://github-readme-activity-graph.vercel.app/graph?username=GuDong2003&theme=minimal&hide_border=true)
