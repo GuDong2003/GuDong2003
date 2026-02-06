@@ -16,3 +16,6 @@
 
 
 </div>
+<div style="text-align: center;">
+    <img src="https://github.com/GuDong2003/GuDong2003/blob/main/img/sign.png" alt="Image" style="width: 100%; height: auto;" />
+</div>
